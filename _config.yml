@@ -3,7 +3,7 @@ title: Gao Blog
 SEOTitle: 高切的博客 | Gao Blog
 header-img: img/home-bg.jpg
 email: 1967993234@qq.com
-description: "这里是高切的个人博客，欢迎浏览 | 要做一个有开心的程序员"
+description: "这里是高切的个人博客，欢迎浏览 | 要做一个开心的程序员"
 keyword: "Gao qie, 博客, 个人网站, Web, 计算机视觉,JavaScript, Vue, CSS,Html,Java,Spring,Torch"
 # url: "https://huangxuan.me" # your host, for absolute URL
 # baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有开心的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个开心的程序员 <br> React Team @ Meta"
 sidebar-avatar: https://img2.baidu.com/it/u=3739884432,1724219671&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
