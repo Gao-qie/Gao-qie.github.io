@@ -44,7 +44,7 @@
 
 图片路径可以使服务器上的图片地址、也可是服务器上图片的地址。
 
-![touxiang](C:\Users\高切\Pictures\Camera Roll\北极熊.jpg)
+![touxiang](img/article/shousi.jpg)
 
 ## 超链接
 
