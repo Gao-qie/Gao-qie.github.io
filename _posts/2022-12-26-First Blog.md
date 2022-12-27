@@ -45,7 +45,7 @@
 
 图片路径可以使服务器上的图片地址、也可是服务器上图片的地址。
 
-![touxiang](Gao-qie.github.io/img/article/shousi.jpg)
+![touxiang](https://github.com/Gao-qie/Gao-qie.github.io/blob/master/img/article/shousi.jpg)
 
 ## 超链接
 
