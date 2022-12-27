@@ -90,7 +90,7 @@ service-worker: true
 page-mathjax: false
 
 # 个人主页连接
-Link:
+Friends:
   [
     { title: "CSDN", href: "http://mida.re/" },
     { title: "GitHUB", href: "https://ebnbin.dev/" },
