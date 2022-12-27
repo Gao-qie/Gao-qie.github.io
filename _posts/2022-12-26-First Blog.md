@@ -38,13 +38,14 @@
 
 ## 图片
 
-语法：![图片名称（随便起）]()
+语法：
+![图片名称（随便起）]()
 
 !+[]+()
 
 图片路径可以使服务器上的图片地址、也可是服务器上图片的地址。
 
-![touxiang](img/article/shousi.jpg)
+![touxiang](Gao-qie.github.io/img/article/shousi.jpg)
 
 ## 超链接
 
