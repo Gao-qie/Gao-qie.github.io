@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: gao
-zhihu_username: gao
-github_username: gao
-twitter_username: gao
+weibo_username: 嗨皮Sir666
+zhihu_username: 嗨皮Sir
+github_username: Gao-qie
+#twitter_username: gao
 #facebook_username:  gao
 #linkedin_username:  firstname-lastname-idxxxx
 
