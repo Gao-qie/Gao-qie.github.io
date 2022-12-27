@@ -76,7 +76,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有开心的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Gao-qie/Gao-qie.github.io/blob/master/img/headimage.jfif # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://img2.baidu.com/it/u=3739884432,1724219671&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
