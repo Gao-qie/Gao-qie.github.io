@@ -1,4 +1,4 @@
-Hey，我是高切，一个略懂计算机科学与土木工程的青年，是一个[江西理工](https://baike.baidu.com/item/%E6%B1%9F%E8%A5%BF%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6/643997?fr=aladdin)软件工程学院与[南京理工](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6?fromModule=lemma_search-box)理学院杂交出来的[码农与搬砖工]。
+Hey，我是高切，一个略懂计算机科学与土木工程的青年[码农与搬砖工]，目前主要关注多模态大模型在火焰探测中的应用。
 
 
 <!-- ##### 演讲与分享
